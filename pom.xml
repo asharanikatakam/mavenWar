@@ -17,5 +17,5 @@
 	</dependencies>
         <build>
             <finalName>maven-war</finalName>
-        </build
+	</build>
 </project>
