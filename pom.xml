@@ -6,7 +6,6 @@
 	<artifactId>Tomcat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-  	<version>0.0.1-SNAPSHOT</version>
   	<name>maven-war</name>
   	<url>http://maven.apache.org</url>
   	<dependencies>
